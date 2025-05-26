@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Planify.exe.config
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Planify.exe
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Planify.pdb
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.Properties.Resources.resources
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.CreateTaskForm.resources
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.View.TaskForm.resources
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.csproj.Up2Date
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.exe
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.pdb
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\obj\Release\Planify.View.SettingsForm.resources
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Data\настройки значок.png
+C:\Users\Admin\Desktop\It\ALL Projects\Основные\Planify\Planify\bin\Release\Data\Help.pdf
